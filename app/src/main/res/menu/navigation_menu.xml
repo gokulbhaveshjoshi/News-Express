@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/general"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="General" />
+    <item
+        android:icon="@android:drawable/radiobutton_on_background"
+        android:title="Entertainment"
+        android:id="@+id/entertainment"/>
+    <item
+        android:id="@+id/healthNews"
+        android:title="Health News" />
+    <item
+        android:id="@+id/scienceNews"
+        android:title="Science News" />
+    <item
+        android:id="@+id/technoNews"
+        android:title="Techno News" />
+    <item
+        android:id="@+id/sportsNews"
+        android:title="Sports News" />
+    <item
+        android:id="@+id/businessToday"
+        android:title="Business Today" />
+</menu>
